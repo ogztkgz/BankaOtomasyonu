@@ -1,6 +1,6 @@
 Banka otomasyon programı çalıştırıldığında kulllanıcının karşısına hesap oluşturma, para çekme, 
 para yatırma, sistem tarihini değiştirme, tüm hesapların id'sini görme, son 5 işlemi görme ve çekiliş gibi 
-şıkları sunan 10 seçenekli bir menü yapısı çıkartıyor.
+şıkları sunan 10 seçenekli bir menü yapısı çıkartıyor. /n
 Bu menüde kullanıcıya ;
 4 tip hesap oluşturma seçeneği ile
 1-Create_Short_ID_balance(Hesap no, başlangıç parası)
